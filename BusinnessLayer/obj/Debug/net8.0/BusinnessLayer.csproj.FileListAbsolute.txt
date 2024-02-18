@@ -1,0 +1,17 @@
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.deps.json
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.dll
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\BusinnessLayer.pdb
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.AssemblyInfo.cs
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.csproj.CopyComplete
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.dll
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\refint\BusinnessLayer.dll
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\BusinnessLayer.pdb
+C:\Users\sinan\Desktop\Coreilk\BusinnessLayer\obj\Debug\net8.0\ref\BusinnessLayer.dll

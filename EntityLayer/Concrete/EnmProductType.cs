@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EntityLayer.Concrete
+{
+    public enum EnmProductType
+    {
+        SALATA = 0,
+        MENU = 1,
+        TATLI = 2,
+        ICECEK = 3,
+        YEMEK = 4
+    }
+}
